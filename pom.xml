@@ -16,6 +16,7 @@
     <modules>
         <module>log-and-rethrow</module>
         <module>always-nest</module>
+        <module>give-message</module>
     </modules>
     <scm>
         <connection>scm:git:git@github.com:jrh3k5/exception-nonos.git</connection>
