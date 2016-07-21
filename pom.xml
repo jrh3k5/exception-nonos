@@ -20,8 +20,8 @@ limitations under the License.
     <groupId>com.github.jrh3k5</groupId>
     <artifactId>exception-nonos-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>maven-plugin</packaging>
-    <name>Flume Plugin Maven Plugin</name>
+    <packaging>pom</packaging>
+    <name>Exception Nonos Parent</name>
     <description>A set of projects that demonstrate "no-no"s when doing exceptions in Java.</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
